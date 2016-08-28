@@ -1,0 +1,7 @@
+a)A visszateritett ertek:4851. (98+97+96+...+0=(98*99)/2=4851.)
+b)n(n+1)/2=2850 -> n^2+n=5700 -> D=151 -> n1=75,n2<0 => n=75,k=1.
+c)A fuggveny visszateriti a Suma(n,k)-t.
+
+
+
+
